@@ -9,7 +9,7 @@ function App() {
         <p>
           Tienda creada con React
         </p>
-        <p>Benjamin Brugiafreddo</p>
+        <p>Benjamin Brugiafreddo.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
